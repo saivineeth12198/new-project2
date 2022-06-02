@@ -1,12 +1,12 @@
 <html>
 <head>
-    <title>Boxfuse Sample App: success!</title>
+    <title>Sysnexuss Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Congratulations!</h1>
+<h1>Sysnexuss Congratulations!</h1>
 <img src="boxfuse.png">
 
-<h2>You have successfully launched your Instance!</h2>
+<h2>Sysnexuss Application</h2>
 
 <p>This Instance is running on <strong><%= System.getenv("BOXFUSE_PLATFORM_NAME") %>
 </strong> and has the id <strong><%= System.getenv("BOXFUSE_INSTANCE_ID") %>
