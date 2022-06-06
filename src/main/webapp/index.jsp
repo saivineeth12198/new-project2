@@ -3,7 +3,7 @@
     <title>Sysnexuss Sample App: success!</title>
 </head>
 <body style="text-align: center">
-<h1>Sysnexuss Congratulations!</h1>
+<h1>Sysnexuss Congratulation</h1>
 <img src="boxfuse.png">
 
 <h2>Sysnexuss Application</h2>
